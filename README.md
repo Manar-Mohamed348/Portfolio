@@ -4,7 +4,7 @@ A modern, responsive portfolio website designed to showcase professional skills,
 
 ## 🌐 Live Demo
 
-[View Live Portfolio]([https://yourusername.github.io/portfolio](https://manar-mohamed348.github.io/Portfolio/))
+[View Live Portfolio](https://manar-mohamed348.github.io/Portfolio/)
 
 ## 📋 Sections
 
